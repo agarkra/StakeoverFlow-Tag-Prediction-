@@ -1,4 +1,4 @@
-# StakeoverFlow-Tag-Prediction-
+# StakeoverFlow-Tag-Prediction
 Predict tags on StackOverflow with linear models.
 
 In this notebook we will predict tags for posts from StackOverflow. To solve this task you will use multilabel classification approach.
